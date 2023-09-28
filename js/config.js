@@ -5,6 +5,7 @@ window._config = {
     region: "eu-north-1", // e.g. us-east-2
   },
   api: {
-    invokeUrl: "https://tfxfon559c.execute-api.eu-north-1.amazonaws.com/prod", // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+    invokeUrl:
+      "https://tfxfon559c.execute-api.eu-north-1.amazonaws.com/prod/ride", // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
   },
 };
